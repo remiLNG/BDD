@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?PowerDesigner signature="Workspace" version="15.1.0.2850"?>
+<!-- Veuillez ne pas modifier ce fichier -->
+
+<Workspace>
+	<Local Expanded="Yes">
+		<Model Expanded="Yes" ID="{73C0EF82-763A-4DAE-A034-B05F9163A40E}" Loaded="No" Name="ModeleConceptuelDonnees_1" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="ModeleConceptuelDonnees_1.mcd"/>
+		<Model Expanded="Yes" ID="{2E066B62-7452-47EA-8B8B-FE5B12B7D4BE}" Loaded="No" Name="ProjetMopolo" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="../../ProjetMopolo/ProjetMopolo.prj"/>
+		<Model Expanded="Yes" ID="{B007E62B-D5A2-44A4-92BA-8D7D9BD4A34B}" Name="ModeleConceptuelDonnees_2" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="MCDFinal.mcd"/>
+		<Model Expanded="Yes" ID="{E1679AFD-9E34-4F36-9435-652F7CF07EFC}" Name="MLDFinal" Selected="Yes" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="MLDFinal.mpd"/>
+	</Local>
+	<BrowserModule Name="Référentiel"/>
+</Workspace>
